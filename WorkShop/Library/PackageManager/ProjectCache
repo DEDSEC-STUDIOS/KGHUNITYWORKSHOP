@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638208039999897072
-    m_Hash: 3995703712
+      ticks: 638208065531216062
+    m_Hash: 151334924
   m_LockFileStatus:
     m_FilePath: Z:/GitRepo/UnityTest/KGHUNITYWORKSHOP/WorkShop/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638208039999927160
-    m_Hash: 1048609696
+      ticks: 638208065531226063
+    m_Hash: 1501039088
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
