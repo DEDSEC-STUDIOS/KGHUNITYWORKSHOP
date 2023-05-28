@@ -77,3 +77,5 @@ WorkShop/Library/Bee/
 WorkShop/Library/BurstCache
 WorkShop/Logs/
 WorkShop/Temp/
+*.cache
+WorkShop/Library/ArtifactDB
