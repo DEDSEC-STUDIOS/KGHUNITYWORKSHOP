@@ -128,3 +128,4 @@
 *.tar lfs
 
 *.dylib lfs
+WorkShop/Library/ArtifactDB lfs

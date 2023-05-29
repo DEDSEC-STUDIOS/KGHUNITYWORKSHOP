@@ -74,3 +74,8 @@ WorkShop/Library/Artifacts/
 WorkShop/Library/Bee/
 /WorkShop/Library/PackageCache
 /WorkShop/Library/ShaderCache
+WorkShop/Library/BurstCache
+WorkShop/Logs/
+WorkShop/Temp/
+*.cache
+WorkShop/Library/ArtifactDB
